@@ -6,3 +6,4 @@ eeeeeee
 fffffff
 gggggg
 masterブランチに追加
+releaseブランチ追加
