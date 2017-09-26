@@ -10,3 +10,4 @@ releaseブランチ追加
 ConflictTest1
 ddddddddaaadffe
 プルリクエストを確認する
+test2にマージする内容です。
