@@ -11,3 +11,4 @@ ConflictTest1
 ddddddddaaadffe
 プルリクエストを確認する
 test2にマージする内容です。
+修正追加10/6
